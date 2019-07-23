@@ -1,0 +1,15 @@
+Canvas image magnifier demo for Ultralight
+
+Building: `yarn && yarn build`.
+Running local server: `yarn && yarn start`.
+
+--
+
+Copyright (C) 2019 Styla GmbH. All rights reserved.
+
+This document is the property of Styla GmbH.
+It is considered proprietary.
+
+This document may not be reproduced or transmitted in any form,
+in whole or in part, without the express written permission of
+Styla GmbH.

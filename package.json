@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build --no-cache --no-source-maps --no-autoinstall --public-url . src/index.html"
+  },
+  "private": true
+}
